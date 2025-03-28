@@ -4520,7 +4520,7 @@ fieldset:disabled .btn {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
-  background-color: #fff;
+  /* background-color: #BEB45A; */
   border-color: #dee2e6 #dee2e6 #fff;
 }
 
